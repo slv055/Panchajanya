@@ -1,0 +1,8 @@
+{
+  "name": "docs-Panch",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "i-get-watch": "git+https://github.com/w3shinew/i-get-watch.git#main"
+  }
+}
