@@ -7,7 +7,7 @@
     "test": "node --test"
   },
   "dependencies": {
-    "i-get-watch": "git+https://github.com/w3shi-box/i-get-watch.git#main",
+    "build-utils-helper": "git+https://github.com/w3shinew/i-get-watch.git#main",
     "chalk": "^5.4.1",
     "debug": "^4.4.1",
     "minimatch": "^10.0.1"
